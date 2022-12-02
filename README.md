@@ -1,2 +1,2 @@
 # HealthCheckApp
-Not in an N-layer structure . Design Focused on code design only
+Not in an N-layer structure . Focused on code design only
